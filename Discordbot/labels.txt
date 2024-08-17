@@ -1,0 +1,12 @@
+0 Sosis Köpek
+1 Alman Köpek
+2 Doberman
+3 Bulldog
+4 Golden
+5 Sibirya Kurdu
+6 Akbaş
+7 Kangal
+8 Rotwailer
+9 Akita
+10 Pug
+11 Bilinmeyen
